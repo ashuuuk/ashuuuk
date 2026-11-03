@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Web development projects, building and improving my frontend skills while exploring backend development.<br><br>👯 I’m looking to collaborate on<br>Web development projects, open-source projects, and creative projects involving frontend and UI/UX.<br><br>🤝 I’m looking for help with<br>Improving my backend development skills and learning best practices for building scalable web applications.<br><br>🌱 I’m currently learning<br>Frontend and backend technologies, JavaScript, and modern web development practices.<br><br>💬 Ask me about<br>C, C++, Python, HTML, CSS, web development, UI/UX, and my web development projects.<br><br>
+## About Me
+
+I'm a developer passionate about building impactful digital experiences and exploring emerging technologies. I enjoy turning ideas into functional products, experimenting with new tools, and continuously improving my development skills.
+
+- Currently working on **full-stack web development projects**, building responsive interfaces, and exploring backend engineering and AI-powered applications.
+- Looking to collaborate on **open-source projects, innovative web applications, AI-driven solutions, and creative frontend/UI/UX projects**.
+- Currently learning **JavaScript, React, backend development, API integration, and AI/LLM technologies**.
+- Ask me about **C, C++, Python, JavaScript, HTML, CSS, React, web development, UI/UX, and my projects**.
+- Exploring **Artificial Intelligence, AI Agents, Quantum Computing, and emerging technologies**.
+- My goal is to **build meaningful products, contribute to the developer community, and grow as a well-rounded software engineer**.
 
 
 ## 🌐 Socials:
